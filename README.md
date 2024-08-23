@@ -32,7 +32,8 @@
 2. **影像辨識垃圾**：透過手機拍照辨識回收物。
 3. **垃圾桶開與關**：透過藍牙傳送指令到 micro:bit，藉由 micro:bit 控制對應的垃圾桶（伺服馬達）開啟與關閉。
 4. **分類的結果統計**：將垃圾分類的結果紀錄在試算表中。
-<img width="700" alt="截圖 2024-08-15 晚上11 25 02" src="https://github.com/user-attachments/assets/523d54d5-6f56-4e85-8bc0-e12e5cab1ce5">
+<!-- <img width="700" alt="截圖 2024-08-15 晚上11 25 02" src="https://github.com/user-attachments/assets/523d54d5-6f56-4e85-8bc0-e12e5cab1ce5"> -->
+<img width="467" alt="截圖 2024-08-23 下午6 08 40" src="https://github.com/user-attachments/assets/2bf27e88-e47e-49b9-9a16-1fe7233bf73c">
 
 ## 遇到的問題與解決方式
 
